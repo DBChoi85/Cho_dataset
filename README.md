@@ -21,11 +21,11 @@
         
         ![960c232b258f4473848e4c31552e173f](https://github.com/DBChoi85/Cho_dataset/assets/43774570/6e8c992f-aed9-446d-9dbc-713f8dbb4c3e)
 
-2. 가장 큰 이미지는 size = (438, 135, 3), path =  U4E26/d4008851093343c4b4e6492de5206110.jpg, img = 
+2. 가장 큰 이미지는 size = (438, 135, 3)
     
     ![d4008851093343c4b4e6492de5206110](https://github.com/DBChoi85/Cho_dataset/assets/43774570/c25f203a-f58f-4e07-b72b-49a57c7a932d)
 
-3. 가장 작은 이미지는 size = (26, 81, 3), path =  ./beijing/U5FC3/82a5249cdb4b4193bc355d59045f2499.jpg, img =
+3. 가장 작은 이미지는 size = (26, 81, 3)
     
     ![82a5249cdb4b4193bc355d59045f2499](https://github.com/DBChoi85/Cho_dataset/assets/43774570/551951f2-4c7d-48e1-b637-c8cf292a7b46)
 
